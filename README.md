@@ -47,4 +47,4 @@ A beginner-friendly cybersecurity project built in Python to simulate basic Secu
 ## 💼 About the Author
 This project was developed as part of a structured 7-week cybersecurity coding program focused on Python + SQL for SOC roles.
 
-> Inspired by real SOC workflows. Built to learn. Ready to gr
+> Inspired by real SOC workflows. Built to learn. Ready to grow.
